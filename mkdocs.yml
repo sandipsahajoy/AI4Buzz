@@ -1,2 +1,5 @@
 site_name: AI4Buzz
+site_url: https://sandipsahajoy.xyz/ai4buzz/
+nav:
+    - Home: index.md
 theme: readthedocs
