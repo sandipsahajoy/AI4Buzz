@@ -2,15 +2,15 @@
 
 ## Project Summary
 This project is to develop a web service to allow researchers to gain insight into the meanings and semantics of what makes a social media post more influential. Specifically, this project will expose a web REST API to allow researchers at AI4Society to upload images and retrieve a summary of an analysis of that photo. This analysis may contain anything from a color scheme analysis to sentiment classification of the photo.
-- Demo: https://cmput401.ca/projects/a3bc8e93-1275-434e-9e88-f4af38bb276c
+- <a href="https://cmput401.ca/projects/a3bc8e93-1275-434e-9e88-f4af38bb276c">Demo</a>
 
 ## Project Documentation
 - https://sandipsahajoy.xyz/AI4Buzz/
 
 ## Active Deployment - Cybera
-- Frontend URL: http://[2605:fd00:4:1001:f816:3eff:fe67:1ff9]
-- Backend API URL: http://[2605:fd00:4:1001:f816:3eff:fe26:70dd]
-- API Documentation: http://[2605:fd00:4:1001:f816:3eff:fe26:70dd]/docs
+- <a href="http://[2605:fd00:4:1001:f816:3eff:fe67:1ff9]">Frontend URL</a>
+- <a href="http://[2605:fd00:4:1001:f816:3eff:fe26:70dd]">Backend API URL</a>
+- <a href="http://[2605:fd00:4:1001:f816:3eff:fe26:70dd]/docs">API Documentation</a>
 
 ## Local Setup
 ### Prerequisites
